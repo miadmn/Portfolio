@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANbUmFkaW8gTGFiZWzTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYATgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/nd3d3cuKnIz/wAAAAAAAAIz/nd3d3cuKnIz/nd3d3cuKn0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TTOgo7PD0+Wk5TVGFiU3RvcHNbTlNBbGlnbm1lbnSAAIASEATSNDVAQV8QEE5TUGFyYWdyYXBoU3R5bGWiQDjSCkNERV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBqAFNMREgpHSk2iSEmAFYAWoktMgBeAGIAZXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABfEBJBdmVuaXJOZXh0LVJlZ3VsYXLSNDVTVF8QE05TTXV0YWJsZURpY3Rpb25hcnmjUzY40jQ1VldfEBBOU0ZvbnREZXNjcmlwdG9yolg4XxAQTlNGb250RGVzY3JpcHRvctI0NVpbXxASTlNBdHRyaWJ1dGVkU3RyaW5nolw4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V9gVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAJIAmQChAKwAsACyALQAtgC6ALwAvgDAAMIA7wECASQBKwEwATIBNAE2ATgBPQE/AUEBQwFFAUcBSwFRAVYBXAFlAW4BdwGAAYUBkAGZAaYBqQGyAbkBxAHQAdIB1AHWAdsB7gHxAfYCEwIVAhcCHgIhAiMCJQIoAioCLAIuAkQCWgJjAngCfQKTApcCnAKvArICxQLKAt8C4gL3AwkDDAMRAAAAAAAAAgEAAAAAAAAAYQAAAAAAAAAAAAAAAAAAAxM="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FAF786E9-7101-4247-A2A0-B6FE123D47BB",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 76,
+    "x": 23,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {76, 19.12396240234375}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Radio Label",
+  "nameIsFixed": true,
+  "originalObjectID": "FAF786E9-7101-4247-A2A0-B6FE123D47BB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D6205E2D-54D4-4A5C-A7E4-E1E62615B61D"
+  },
+  "textBehaviour": 0
+}
